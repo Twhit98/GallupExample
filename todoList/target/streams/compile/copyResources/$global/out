@@ -1,0 +1,4 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(C:\Users\avguest\Desktop\PlayProjects\todoList\conf\application.conf,C:\Users\avguest\Desktop\PlayProjects\todoList\target\scala-2.10\classes\application.conf)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\avguest\Desktop\PlayProjects\todoList\conf\routes,C:\Users\avguest\Desktop\PlayProjects\todoList\target\scala-2.10\classes\routes)[0m
+[0m[[0mdebug[0m] [0m	(C:\Users\avguest\Desktop\PlayProjects\todoList\conf\test-data.yml,C:\Users\avguest\Desktop\PlayProjects\todoList\target\scala-2.10\classes\test-data.yml)[0m

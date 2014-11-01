@@ -1,0 +1,5 @@
+- !!models.User
+	email: bob@gmail.com
+	userName: BOB
+	password: PassWord
+	
